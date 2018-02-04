@@ -6,8 +6,12 @@ i). Decision Trees
 ii).SVM
 iii). KNN classifiers
 
-After comparing the result obtained from all the three models I have chosen Knn classifire beacuse of its best performance and then optimized it by tuning its parameters to better the resuls.
+After comparing the result obtained from all the three models I have chosen KNN classifire beacuse of its best performance and then optimized it by tuning its parameters to better the resuls.
 
-Scikit Learn libraries and Pandas are used.
+following python libraries have been used:-
+i).Pandas
+ii). Scikit-learn
+iii). Numpy
+iv). Matplotlib
 
  
